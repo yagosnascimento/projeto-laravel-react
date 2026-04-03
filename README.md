@@ -1,13 +1,12 @@
-## 1. O que é o PHP e como ele funciona?
-
-Diferente do JavaScript que roda no navegador do seu cliente, o PHP roda no **servidor**. Ele processa as informações e entrega apenas o HTML pronto para o navegador.
+## 1. O que é o projeto?
+Ser um desenvolvedor não é apenas ser um pedreiro de código. O trabalho de um desenvolvedor é sempre solucionar problemas. Por isso, me esforcei nesse projeto para criar um projeto em Laravel e React (vite) para criar um blog utilizando não apenas código, mas também Trello e Figma para poder estruturar em um trabalho digno.
 
 Trello: https://trello.com/b/91qaRJYB/blog-laravel-hub <br>
 Figma: https://www.figma.com/design/xjcMp1s5urL44I1Qndb44l/Blog-Laravel?node-id=0-1&t=ybSEMko3L990ONBS-1
 
 
 
-### Preparando o terreno
+### Criando o projeto
 Para começar, você precisa de três coisas no seu PC:
 1.  **PHP:** O interpretador da linguagem.
 2.  **Composer:** O gerenciador de pacotes (como o NuGet do C# ou o pip do Python).
